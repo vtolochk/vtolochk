@@ -9,9 +9,9 @@ I am a **programming language agnostic** 👨‍🎓 and can learn any language/
 
 ## Connect with me  📡
 
-[<img align="left" alt="vtolochk | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="vtolochk | LinkedIn" width="22px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][linkedin]
-[<img align="left" alt="vtolochk | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="vtolochk | Twitter" width="24px" src="https://img.icons8.com/fluent/2x/twitter.png" />][twitter]
+[<img align="left" alt="vtolochk | LinkedIn" width="24px" src="https://img.icons8.com/fluent/2x/linkedin.png" />][linkedin]
+[<img align="left" alt="vtolochk | Instagram" width="24px" src="https://img.icons8.com/fluent/2x/instagram-new.png" />][instagram]
 
 [twitter]: https://twitter.com/vtolochk
 [linkedin]: https://linkedin.com/in/vtolochk
