@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Valentyn Tolochko** 👨‍💻 working as a **Software Engineer @ LITSLINK**. I am an experienced **Fullstack Developer** with a demonstrated history of working in the information technology and FinTech industry. 
+I am **Valentyn Tolochko** 👨‍💻 working as a **Software Engineer**. I am an experienced **Fullstack Developer** with a demonstrated history of working in the information technology and FinTech industry. 
 Strong engineering professional with a 42 Senior Degree from 42 school.
 
 Skilled in **React Native**, **React JS**, **Vue**, **Ruby**, **Rails** and much more.
