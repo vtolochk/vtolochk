@@ -15,4 +15,4 @@ I am a **programming language agnostic** 👨‍🎓 and can use any language/to
 
 [twitter]: https://twitter.com/vtolochk
 [linkedin]: https://linkedin.com/in/vtolochk
-[instagram]: https://instagram.com/valentin_tolochko
+[instagram]: https://instagram.com/valentyn_tolochko
