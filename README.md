@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-I am **Valentyn Tolochko** 👨‍💻 working as a **Software Engineer**. I am an experienced **Fullstack Developer** with a demonstrated history of working in the information technology and FinTech industry. 
+I am **Valentyn Tolochko** 👨‍💻 working as a **Software Engineer**. I am an experienced **Fullstack Developer** with a demonstrated history of working in the information technology, FinTech industry and web3. 
 Strong engineering professional with a 42 Senior Degree from 42 school.
 
-Skilled in **React Native**, **React JS**, **Vue**, **Ruby**, **Rails** and much more.
+Skilled in **Solidity**, **web3**, **React Native**, **React JS**, **Vue**, **Ruby**, **Rails** and much more.
 <br />
 I am a **programming language agnostic** 👨‍🎓 and can use any language/tool very fast depending on what needs to be done.
 
